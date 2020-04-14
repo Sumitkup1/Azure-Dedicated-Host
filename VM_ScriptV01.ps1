@@ -1,4 +1,6 @@
-﻿# Provide VM name
+﻿# Author = Sumit Kumar
+# Date - 14th April 2020
+# Provide VM name
 $VM = 'vmtest01'
 
 #Dedicated Host details
