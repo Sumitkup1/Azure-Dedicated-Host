@@ -1,2 +1,3 @@
 Repo for PS Script
-# Script to move existing Azure IaaS VM to Azure Dedicated Host service
+
+# Script to move / transition existing Azure IaaS VM to Azure Dedicated Host service
