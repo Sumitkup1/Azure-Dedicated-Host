@@ -1,3 +1,3 @@
-Azure Dedicated host
+# Azure Dedicated host
 
-# Powershell script to move existing Azure IaaS VM to Azure Dedicated host service
+#Powershell script to move existing Azure IaaS VM to Azure Dedicated host service
